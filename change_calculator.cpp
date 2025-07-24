@@ -1,7 +1,6 @@
 #include <iostream>
-// Exercise 4.2 by Varun Murali and Anika Nangia
-
 #include <cmath>
+
 using namespace std;
 
 int main() {
