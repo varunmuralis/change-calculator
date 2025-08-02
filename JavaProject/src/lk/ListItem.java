@@ -3,6 +3,7 @@ package lk;
 public class ListItem {
     private String item;
 
+    // Test me
     public ListItem() {
         item = "";
     }
