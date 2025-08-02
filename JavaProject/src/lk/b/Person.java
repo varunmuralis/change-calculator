@@ -1,4 +1,4 @@
-package util.lk.b;
+package lk.b;
 
 public class Person {
 

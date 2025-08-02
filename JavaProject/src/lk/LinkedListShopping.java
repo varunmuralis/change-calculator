@@ -1,14 +1,14 @@
-package util.lk.a;
+package lk;
 
+import java.util.LinkedList;
 import java.util.Scanner;
 
-public class LinkListShopping {
+public class LinkedListShopping {
     public static void main (String[] args) {
         Scanner scnr = new Scanner(System.in);
 
         // Declare a LinkedList called shoppingList of type ListItem
-        Link head = new Link("HEAD");
-        Link current = head;
+        LinkedList<ListItem> shoppingList = new LinkedList<>();
         String item;
 
         // Read User Inputs until a "-1" is detected
@@ -18,14 +18,13 @@ public class LinkListShopping {
                 break;
             }
             // Add the new ListItem to the list
-            Link link = new Link(item);
-            current.next = link;
-            current = current.next;
+            shoppingList.add(new ListItem(item));
         }
-        current = head;
-        while(current != null){
-            System.out.println(current);
-            current = current.next;
+
+
+        // Print the shoppingList LinkedList using the printNodeData() method
+        for (ListItem listItem : shoppingList){
+            listItem.printNodeData();
         }
     }
 }

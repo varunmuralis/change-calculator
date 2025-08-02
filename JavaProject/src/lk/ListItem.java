@@ -1,4 +1,4 @@
-package util.lk;
+package lk;
 
 public class ListItem {
     private String item;

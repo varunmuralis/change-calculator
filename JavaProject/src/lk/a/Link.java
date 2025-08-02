@@ -1,4 +1,4 @@
-package util.lk.a;
+package lk.a;
 
 public class Link {
     private String item;
