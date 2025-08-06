@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXCopyFilesBuildPhase section */
-		8B902D882E42DF1700C36EFA /* CopyFiles */ = {
+		8B902D742E42B0D100C36EFA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -19,19 +19,19 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8B902D8A2E42DF1700C36EFA /* TeamM_Exercise73 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TeamM_Exercise73; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B902D762E42B0D100C36EFA /* TeamM_Exercise72 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TeamM_Exercise72; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8B902D8C2E42DF1700C36EFA /* TeamM_Exercise73 */ = {
+		8B902D782E42B0D200C36EFA /* TeamM_Exercise72 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TeamM_Exercise73;
+			path = TeamM_Exercise72;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8B902D872E42DF1700C36EFA /* Frameworks */ = {
+		8B902D732E42B0D100C36EFA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,18 +41,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8B902D812E42DF1700C36EFA = {
+		8B902D6D2E42B0D100C36EFA = {
 			isa = PBXGroup;
 			children = (
-				8B902D8C2E42DF1700C36EFA /* TeamM_Exercise73 */,
-				8B902D8B2E42DF1700C36EFA /* Products */,
+				8B902D782E42B0D200C36EFA /* TeamM_Exercise72 */,
+				8B902D772E42B0D100C36EFA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8B902D8B2E42DF1700C36EFA /* Products */ = {
+		8B902D772E42B0D100C36EFA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8B902D8A2E42DF1700C36EFA /* TeamM_Exercise73 */,
+				8B902D762E42B0D100C36EFA /* TeamM_Exercise72 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,63 +60,63 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8B902D892E42DF1700C36EFA /* TeamM_Exercise73 */ = {
+		8B902D752E42B0D100C36EFA /* TeamM_Exercise72 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8B902D912E42DF1700C36EFA /* Build configuration list for PBXNativeTarget "TeamM_Exercise73" */;
+			buildConfigurationList = 8B902D7D2E42B0D200C36EFA /* Build configuration list for PBXNativeTarget "TeamM_Exercise72" */;
 			buildPhases = (
-				8B902D862E42DF1700C36EFA /* Sources */,
-				8B902D872E42DF1700C36EFA /* Frameworks */,
-				8B902D882E42DF1700C36EFA /* CopyFiles */,
+				8B902D722E42B0D100C36EFA /* Sources */,
+				8B902D732E42B0D100C36EFA /* Frameworks */,
+				8B902D742E42B0D100C36EFA /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8B902D8C2E42DF1700C36EFA /* TeamM_Exercise73 */,
+				8B902D782E42B0D200C36EFA /* TeamM_Exercise72 */,
 			);
-			name = TeamM_Exercise73;
+			name = TeamM_Exercise72;
 			packageProductDependencies = (
 			);
-			productName = TeamM_Exercise73;
-			productReference = 8B902D8A2E42DF1700C36EFA /* TeamM_Exercise73 */;
+			productName = TeamM_Exercise72;
+			productReference = 8B902D762E42B0D100C36EFA /* TeamM_Exercise72 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8B902D822E42DF1700C36EFA /* Project object */ = {
+		8B902D6E2E42B0D100C36EFA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					8B902D892E42DF1700C36EFA = {
+					8B902D752E42B0D100C36EFA = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 8B902D852E42DF1700C36EFA /* Build configuration list for PBXProject "TeamM_Exercise73" */;
+			buildConfigurationList = 8B902D712E42B0D100C36EFA /* Build configuration list for PBXProject "TeamM_Exercise72" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8B902D812E42DF1700C36EFA;
+			mainGroup = 8B902D6D2E42B0D100C36EFA;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8B902D8B2E42DF1700C36EFA /* Products */;
+			productRefGroup = 8B902D772E42B0D100C36EFA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8B902D892E42DF1700C36EFA /* TeamM_Exercise73 */,
+				8B902D752E42B0D100C36EFA /* TeamM_Exercise72 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8B902D862E42DF1700C36EFA /* Sources */ = {
+		8B902D722E42B0D100C36EFA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -126,7 +126,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8B902D8F2E42DF1700C36EFA /* Debug */ = {
+		8B902D7B2E42B0D200C36EFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		8B902D902E42DF1700C36EFA /* Release */ = {
+		8B902D7C2E42B0D200C36EFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +241,7 @@
 			};
 			name = Release;
 		};
-		8B902D922E42DF1700C36EFA /* Debug */ = {
+		8B902D7E2E42B0D200C36EFA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -251,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		8B902D932E42DF1700C36EFA /* Release */ = {
+		8B902D7F2E42B0D200C36EFA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -264,25 +264,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8B902D852E42DF1700C36EFA /* Build configuration list for PBXProject "TeamM_Exercise73" */ = {
+		8B902D712E42B0D100C36EFA /* Build configuration list for PBXProject "TeamM_Exercise72" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8B902D8F2E42DF1700C36EFA /* Debug */,
-				8B902D902E42DF1700C36EFA /* Release */,
+				8B902D7B2E42B0D200C36EFA /* Debug */,
+				8B902D7C2E42B0D200C36EFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8B902D912E42DF1700C36EFA /* Build configuration list for PBXNativeTarget "TeamM_Exercise73" */ = {
+		8B902D7D2E42B0D200C36EFA /* Build configuration list for PBXNativeTarget "TeamM_Exercise72" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8B902D922E42DF1700C36EFA /* Debug */,
-				8B902D932E42DF1700C36EFA /* Release */,
+				8B902D7E2E42B0D200C36EFA /* Debug */,
+				8B902D7F2E42B0D200C36EFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8B902D822E42DF1700C36EFA /* Project object */;
+	rootObject = 8B902D6E2E42B0D100C36EFA /* Project object */;
 }
